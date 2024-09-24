@@ -1,0 +1,14 @@
+C:\Users\omadg\source\repos\ROCK PAPER SCISSIRS\ROCK PAPER SCISSIRS\bin\Debug\net8.0\ROCK PAPER SCISSIRS.exe
+C:\Users\omadg\source\repos\ROCK PAPER SCISSIRS\ROCK PAPER SCISSIRS\bin\Debug\net8.0\ROCK PAPER SCISSIRS.deps.json
+C:\Users\omadg\source\repos\ROCK PAPER SCISSIRS\ROCK PAPER SCISSIRS\bin\Debug\net8.0\ROCK PAPER SCISSIRS.runtimeconfig.json
+C:\Users\omadg\source\repos\ROCK PAPER SCISSIRS\ROCK PAPER SCISSIRS\bin\Debug\net8.0\ROCK PAPER SCISSIRS.dll
+C:\Users\omadg\source\repos\ROCK PAPER SCISSIRS\ROCK PAPER SCISSIRS\bin\Debug\net8.0\ROCK PAPER SCISSIRS.pdb
+C:\Users\omadg\source\repos\ROCK PAPER SCISSIRS\ROCK PAPER SCISSIRS\obj\Debug\net8.0\ROCK PAPER SCISSIRS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omadg\source\repos\ROCK PAPER SCISSIRS\ROCK PAPER SCISSIRS\obj\Debug\net8.0\ROCK PAPER SCISSIRS.AssemblyInfoInputs.cache
+C:\Users\omadg\source\repos\ROCK PAPER SCISSIRS\ROCK PAPER SCISSIRS\obj\Debug\net8.0\ROCK PAPER SCISSIRS.AssemblyInfo.cs
+C:\Users\omadg\source\repos\ROCK PAPER SCISSIRS\ROCK PAPER SCISSIRS\obj\Debug\net8.0\ROCK PAPER SCISSIRS.csproj.CoreCompileInputs.cache
+C:\Users\omadg\source\repos\ROCK PAPER SCISSIRS\ROCK PAPER SCISSIRS\obj\Debug\net8.0\ROCK PAPER SCISSIRS.dll
+C:\Users\omadg\source\repos\ROCK PAPER SCISSIRS\ROCK PAPER SCISSIRS\obj\Debug\net8.0\refint\ROCK PAPER SCISSIRS.dll
+C:\Users\omadg\source\repos\ROCK PAPER SCISSIRS\ROCK PAPER SCISSIRS\obj\Debug\net8.0\ROCK PAPER SCISSIRS.pdb
+C:\Users\omadg\source\repos\ROCK PAPER SCISSIRS\ROCK PAPER SCISSIRS\obj\Debug\net8.0\ROCK PAPER SCISSIRS.genruntimeconfig.cache
+C:\Users\omadg\source\repos\ROCK PAPER SCISSIRS\ROCK PAPER SCISSIRS\obj\Debug\net8.0\ref\ROCK PAPER SCISSIRS.dll
